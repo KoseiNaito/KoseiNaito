@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+
+内藤　浩星
+
+筑波大学　情報メディア創成学類　第3学年
+
+mail:s2313514@u.tsukuba.ac.jp
 
 <!--
 **KoseiNaito/KoseiNaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
